@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cooking33400@gmail.com
+	name = DrMoussa
