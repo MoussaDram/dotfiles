@@ -51,7 +51,7 @@
   rebase = false
 [user]
 	email = cooking33400@gmail.com
-	name = Moussa Drame
+	name = MoussaDrame
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
